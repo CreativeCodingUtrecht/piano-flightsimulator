@@ -1,0 +1,12 @@
+{
+  "name": "xplane-blackbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@shiari/xplane-node-udp-client": "^0.1.0",
+    "dmxnet": "^0.8.0",
+    "osc": "^2.4.3"
+  },
+  "type": "module"
+}
